@@ -13,7 +13,6 @@
                 <h6>Total Gold: @ViewBag.gold </h6>
                 <p>@ViewBag.log</p>
             </div>
-
             <div class="gold">
                 <h4> Farm </h4>
                 <form action="/process_money" method="post">
